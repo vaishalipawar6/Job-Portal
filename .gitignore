@@ -1,0 +1,18 @@
+# Dependencies / Vendor folders
+/vendor/
+
+# Environment and Local Configuration files
+.env
+.env.local
+config.local.php
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
